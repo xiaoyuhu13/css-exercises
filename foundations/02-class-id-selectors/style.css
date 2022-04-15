@@ -1,0 +1,19 @@
+.common {
+    background-color: #ff000080;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.unique{
+    font-size: 24px;
+}
+
+#two{
+    color:blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: #a0dead80;
+    font-size: 24px;
+    font-weight: bold;
+}
